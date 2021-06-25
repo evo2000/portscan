@@ -1,5 +1,7 @@
 # portscan
 
+Simple port scanner, created with python.
+
 **cmd line arg examples:**
 
 scan port 0-1024:
